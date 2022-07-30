@@ -16,4 +16,5 @@ A Food / Restaurant homepage designed to display the menu of a vegan restaurant,
 Uma homepage de Comida / Restaurante projetada para exibir o cardápio de um restaurante vegano, na qual o cliente poderá selecionar a comida que deseja para entrega e, em seguida, fazer o pedido por meio de um formulário interativo.
 <br><br>
 
-![image](https://user-images.githubusercontent.com/108018406/181871547-202afb9d-0de7-44de-b547-95e6f5d38d3e.png)
+![vegan-food-menu](https://user-images.githubusercontent.com/108018406/182003313-7b06ed0c-cfc7-475a-a402-e988f23f6a6c.PNG)
+
