@@ -1,4 +1,4 @@
-# Vegan Food Menu
+# Vegan Food Menu (Restaurant Website)
 
 ⚡<strong>[ HTML / CSS / JavaScript ]</strong> 
 <br>
