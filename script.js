@@ -1,4 +1,3 @@
-
 // Scroll Reveal
 
 ScrollReveal().reveal(' .menu-photos', { delay: 350 });
