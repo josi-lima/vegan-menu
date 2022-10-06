@@ -1,4 +1,4 @@
-# Vegan Food Menu (Restaurant Website)
+# Vegan Food Menu (Restaurant Website) 🍕
 
 ⚡<strong>[ HTML / CSS / JavaScript ]</strong> --- https://josi-lima.github.io/vegan-menu/
 <br>
